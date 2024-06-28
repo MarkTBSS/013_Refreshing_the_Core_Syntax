@@ -1,3 +1,3 @@
 ```
-node first-app.js
+node play.js
 ```
